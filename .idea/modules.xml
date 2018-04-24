@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ns_commons/ns_commons.iml" filepath="$PROJECT_DIR$/ns_commons/ns_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ns_dispacher/ns_dispacher.iml" filepath="$PROJECT_DIR$/ns_dispacher/ns_dispacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ns_log/ns_log.iml" filepath="$PROJECT_DIR$/ns_log/ns_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ns_mq/ns_mq.iml" filepath="$PROJECT_DIR$/ns_mq/ns_mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ns_parent.iml" filepath="$PROJECT_DIR$/ns_parent.iml" />
+    </modules>
+  </component>
+</project>
