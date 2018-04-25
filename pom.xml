@@ -13,6 +13,8 @@
         <module>ns_commons</module>
         <module>ns_mq</module>
         <module>ns_log</module>
+        <module>ns_chains</module>
+        <module>ns_transporter</module>
     </modules>
 
 
